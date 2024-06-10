@@ -1,4 +1,4 @@
-# JavaProjects
+# Shape Graphing Tool
 Java Graphics Application
 
 Developed a Java-based graphical application with an interactive GUI using AWT and Swing. The application features a menu-driven interface allowing users to draw and display properties of various 2D and 3D shapes, including lines, rectangles, ellipses, polygons, spheres, cubes, cones, and cylinders. Key features include:
